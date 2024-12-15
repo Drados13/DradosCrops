@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "DradosCrop-ElfCrop",
+    "name": "Drados Crops - Magicalysm/MagicalNights Seed Generation",
+    "authors": [ "Drados" ],
+    "maintainers": [ "Drados" ],
+    "description": "A minor resource generation mod, utilizing the infusion quality from magiclysm/magicalnights to make plants to lessen an amount of scavenging!",
+    "category": "magical",
+    "dependencies": [ "bn" ]
+  }
+
+
+
+]

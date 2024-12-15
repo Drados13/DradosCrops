@@ -1,0 +1,93 @@
+[
+  {
+    "result": "seed_mushroom_lead",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "lead", 1 ] ]
+	]
+  },
+  {    
+    "result": "seed_mushroom_gold",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "gold", 1 ] ] ]
+},
+{
+    "result": "seed_mushroom_silver",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "silver", 1 ] ] ]
+},
+{
+    "result": "seed_mushroom_scrap",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "scrap", 1 ] ] ]
+},
+{
+    "result": "seed_mushroom_sulfur",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "chem_sulphur", 1 ] ] ]
+},
+{
+    "result": "seed_mushroom_solar",
+    "type": "recipe",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "spellcraft",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "MANA_INFUSE", "level": 2 } ],
+    "components": [ 
+	[ [ "seed_mushroom", 1 ], [ "seed_mushroom_morel", 1 ] ],
+	[ [ "solar_cell", 1 ] ] ]
+}
+]

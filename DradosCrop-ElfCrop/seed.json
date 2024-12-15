@@ -1,0 +1,69 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_lead",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "leaded mushroom culture" },
+    "description": "Some leaded mushroom culture.",
+    "seed_data": {
+      "plant_name": "leaded mushroom",
+      "fruit": "lead_bulb",
+      "grow": "3 days" }
+    },
+    {
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_gold",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "gilded mushroom culture" },
+    "description": "Some gilded mushroom culture.",
+    "seed_data": {
+      "plant_name": "gilded mushroom",
+      "fruit": "gold_leaf",
+      "grow": "3 days"}
+    },
+  {
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_silver",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "silvered mushroom culture" },
+    "description": "Some silvered mushroom culture.",
+    "seed_data": {
+      "plant_name": "silvered mushroom",
+      "fruit": "silver_lattice",
+      "grow": "3 days"}
+	},
+   {
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_scrap",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "metallic mushroom culture" },
+    "description": "Some metallic mushroom culture.",
+    "seed_data": {
+      "plant_name": "metallic mushroom",
+      "fruit": "metallic_sprig",
+      "grow": "3 days"
+	}
+},
+{
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_sulfur",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "sulfuric mushroom culture" },
+    "description": "Some sulfuric mushroom culture.",
+    "seed_data": {
+      "plant_name": "sulfuric mushroom",
+      "fruit": "sulfuric_clump",
+      "grow": "3 days"}
+    },
+{
+    "type": "COMESTIBLE",
+    "id": "seed_mushroom_solar",
+    "copy-from": "seed_mushroom",
+    "name": { "str_sp": "Photovoltaic mushroom culture" },
+    "description": "Some photovoltaic mushroom culture.",
+    "seed_data": {
+      "plant_name": "photovoltaic mushroom",
+      "fruit": "solar_cell",
+      "grow": "3 days"}
+}
+]
